@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+result.tmp
+*.log
+.DS_Store
+chromedriver
